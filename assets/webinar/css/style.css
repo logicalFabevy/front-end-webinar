@@ -289,7 +289,13 @@ li {
     margin-right: 8px;
     font-size: 18px;
 }
-
+.tel-number{
+    text-decoration: none;
+    color: #ccc;
+}
+.tel-number:hover{
+    color: #ccc;
+}
 .ftr-social-links a {
     display: inline-block;
     margin-right: 8px;
