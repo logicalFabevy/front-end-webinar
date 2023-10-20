@@ -738,6 +738,10 @@ Webinar 1 styles -------------------*/
     background-color: #fff3c1 !important;
 }
 
+.web-bg-btm-colr{
+    background-color: #d9e0fd !important;
+}
+
 .web1-hdr-sec {
     height: 100vh;
     display: flex;
