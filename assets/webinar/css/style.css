@@ -703,7 +703,7 @@ Webinar 1 styles -------------------*/
 }
 
 .web-bg-2 {
-    background-color: #eff2ff !important;
+    background-color: #e5e6f8 !important;
 }
 
 .web-bg-3 {
@@ -890,7 +890,13 @@ web1-cards ---------------------*/
     text-align: center;
     overflow: hidden;
 }
-
+.web1-card-list{
+    margin-top: 15px;
+    list-style-type: circle;
+}
+.web1-card-list li{
+    padding-bottom: 5px;
+}
 .web1-card-imgs{
     width: 120px;
     display: inline-block;
@@ -1011,10 +1017,10 @@ web1-cards ---------------------*/
 
 
 .web1-card-footer {
-    position: absolute;
     width: 100%;
-    bottom: 0;
-    left: 0;
+}
+.web1-card-footer p{
+    font-size: 20px;
 }
 
 /*  */
